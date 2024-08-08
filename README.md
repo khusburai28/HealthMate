@@ -30,12 +30,12 @@ Here are some screenshots demonstrating the core features of HealthMate. These i
 
 ![Screenshot 1](frontend/public/screenshot1.png)
 ![Screenshot 2](frontend/public/screenshot2.png)
-![Screenshot 3](frontend/public/screenshot3.png)
-![Screenshot 4](frontend/public/screenshot4.png)
-![Screenshot 5](frontend/public/screenshot5.png)
+![Screenshot 3](frontend/public/Screenshot3.png)
+![Screenshot 4](frontend/public/Screenshot4.png)
+![Screenshot 5](frontend/public/Screenshot5.png)
 ![Screenshot 6](frontend/public/screenshot6.png)
-![Screenshot 7](frontend/public/screenshot7.png)
-![Screenshot 8](frontend/public/screenshot8.png)
+![Screenshot 7](frontend/public/Screenshot7.png)
+![Screenshot 8](frontend/public/Screenshot8.png)
 ![Screenshot 9](frontend/public/screenshot9.png)
 ![Screenshot 10](frontend/public/screenshot10.png)
 
